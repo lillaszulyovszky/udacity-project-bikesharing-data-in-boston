@@ -114,4 +114,6 @@ On the other hand, weekends show a very balanced and gradually increasing and de
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+- trip duration by months, based on user type
+- number of trips by weekday or weekend, based on user type
+- trip duration by type of weekday, based on user type
